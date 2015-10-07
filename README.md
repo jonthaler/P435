@@ -5,6 +5,6 @@ I suggest doing them in this order:
 * Graphing
 * Interactive graphs
 * Numerical integration
-* Fourier decomposition
+* Fourier decompositions
 * Dipole
 
